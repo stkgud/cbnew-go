@@ -2,8 +2,8 @@ name: cbnew-auto-push
 
 on:
   schedule:
-    # 每工作日10:30执行，转为UTC要减8小时
-    - cron: '24 2 * * 1-5'
+    # 每工作日11:00执行，转为UTC要减8小时
+    - cron: '0 3 * * 1-5'
 
 jobs:
 
