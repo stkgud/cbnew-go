@@ -32,3 +32,5 @@ cbnew.exe -barkkey=XXXX -s -h=8 -m=50
 
 # 参考
 [V2EX：cbnew-python](https://github.com/crazygit/cbnew)
+
+# 需要30天更新一次触发Actions
